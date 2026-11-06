@@ -60,7 +60,8 @@ I've shipped production AI to enterprise customers, including **Gulf-region gove
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack/langgraph-dark.svg"><img alt="LangGraph" src="assets/stack/langgraph-light.svg" width="124" height="36" align="top"></picture
 ><picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack/langchain-dark.svg"><img alt="LangChain" src="assets/stack/langchain-light.svg" width="120" height="36" align="top"></picture
 ><picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack/llamaindex-dark.svg"><img alt="LlamaIndex" src="assets/stack/llamaindex-light.svg" width="126" height="36" align="top"></picture
-><picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack/mcp-dark.svg"><img alt="MCP (Model Context Protocol)" src="assets/stack/mcp-light.svg" width="79" height="36" align="top"></picture
+><picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack/mcp-dark.svg"><img alt="MCP (Model Context Protocol): IBM ContextForge" src="assets/stack/mcp-light.svg" width="201" height="36" align="top"></picture
+><picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack/openai-api-dark.svg"><img alt="OpenAI API" src="assets/stack/openai-api-light.svg" width="124" height="36" align="top"></picture
 ><picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack/langfuse-dark.svg"><img alt="Langfuse" src="assets/stack/langfuse-light.svg" width="111" height="36" align="top"></picture
 ><picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack/weaviate-dark.svg"><img alt="Weaviate" src="assets/stack/weaviate-light.svg" width="114" height="36" align="top"></picture
 ><picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack/azure-ai-search-dark.svg"><img alt="Azure AI Search" src="assets/stack/azure-ai-search-light.svg" width="153" height="36" align="top"></picture
@@ -73,34 +74,44 @@ I've shipped production AI to enterprise customers, including **Gulf-region gove
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack/label-code-dark.svg"><img alt="Code" src="assets/stack/label-code-light.svg" width="44" height="20"></picture><br>
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack/python-dark.svg"><img alt="Python" src="assets/stack/python-light.svg" width="96" height="36" align="top"></picture
 ><picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack/typescript-dark.svg"><img alt="TypeScript" src="assets/stack/typescript-light.svg" width="119" height="36" align="top"></picture
-><picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack/csharp-dotnet-dark.svg"><img alt="C# and .NET" src="assets/stack/csharp-dotnet-light.svg" width="105" height="36" align="top"></picture
+><picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack/csharp-dotnet-dark.svg"><img alt="C# and .NET: ASP.NET Core, SignalR" src="assets/stack/csharp-dotnet-light.svg" width="254" height="36" align="top"></picture
 ><picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack/fastapi-dark.svg"><img alt="FastAPI" src="assets/stack/fastapi-light.svg" width="98" height="36" align="top"></picture
 ><picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack/nodejs-dark.svg"><img alt="Node.js" src="assets/stack/nodejs-light.svg" width="98" height="36" align="top"></picture
 ><picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack/react-dark.svg"><img alt="React" src="assets/stack/react-light.svg" width="89" height="36" align="top"></picture
 ><picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack/svelte-dark.svg"><img alt="Svelte" src="assets/stack/svelte-light.svg" width="89" height="36" align="top"></picture
-><picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack/graphql-dark.svg"><img alt="GraphQL" src="assets/stack/graphql-light.svg" width="107" height="36" align="top"></picture>
+><picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack/graphql-dark.svg"><img alt="GraphQL" src="assets/stack/graphql-light.svg" width="107" height="36" align="top"></picture
+><picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack/rest-dark.svg"><img alt="REST APIs" src="assets/stack/rest-light.svg" width="113" height="36" align="top"></picture
+><picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack/security-dark.svg"><img alt="Security: OAuth 2.0, JWT, RBAC" src="assets/stack/security-light.svg" width="254" height="36" align="top"></picture>
 </p>
 
 <p>
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack/label-cloud-dark.svg"><img alt="Cloud" src="assets/stack/label-cloud-light.svg" width="54" height="20"></picture><br>
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack/aws-dark.svg"><img alt="AWS: EKS, Lambda, Bedrock, CDK" src="assets/stack/aws-light.svg" width="277" height="36" align="top"></picture
-><picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack/azure-dark.svg"><img alt="Azure: AKS, Functions, Service Bus" src="assets/stack/azure-light.svg" width="272" height="36" align="top"></picture
-><picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack/docker-dark.svg"><img alt="Docker" src="assets/stack/docker-light.svg" width="99" height="36" align="top"></picture
-><picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack/kubernetes-dark.svg"><img alt="Kubernetes" src="assets/stack/kubernetes-light.svg" width="126" height="36" align="top"></picture
-><picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack/github-actions-dark.svg"><img alt="GitHub Actions" src="assets/stack/github-actions-light.svg" width="149" height="36" align="top"></picture
-><picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack/azure-devops-dark.svg"><img alt="Azure DevOps" src="assets/stack/azure-devops-light.svg" width="148" height="36" align="top"></picture
-><picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack/kafka-dark.svg"><img alt="Apache Kafka" src="assets/stack/kafka-light.svg" width="84" height="36" align="top"></picture
-><picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack/rabbitmq-dark.svg"><img alt="RabbitMQ" src="assets/stack/rabbitmq-light.svg" width="114" height="36" align="top"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack/aws-dark.svg"><img alt="AWS: EKS, Lambda, Bedrock, CDK, App Runner, EC2, ECR, S3, RDS, SQS, SNS, CloudWatch, IAM, Secrets Manager" src="assets/stack/aws-light.svg" width="284" height="87" align="top"></picture
+><picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack/azure-dark.svg"><img alt="Azure: AKS, Functions, App Services, API Management, Service Bus, Azure SQL, Key Vault, Entra ID" src="assets/stack/azure-light.svg" width="284" height="87" align="top"></picture>
 </p>
 
 <p>
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack/label-data-dark.svg"><img alt="Data" src="assets/stack/label-data-light.svg" width="43" height="20"></picture><br>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack/label-devops-dark.svg"><img alt="DevOps &amp; observability" src="assets/stack/label-devops-light.svg" width="213" height="20"></picture><br>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack/docker-dark.svg"><img alt="Docker" src="assets/stack/docker-light.svg" width="99" height="36" align="top"></picture
+><picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack/kubernetes-dark.svg"><img alt="Kubernetes" src="assets/stack/kubernetes-light.svg" width="126" height="36" align="top"></picture
+><picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack/github-actions-dark.svg"><img alt="GitHub Actions" src="assets/stack/github-actions-light.svg" width="149" height="36" align="top"></picture
+><picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack/azure-devops-dark.svg"><img alt="Azure DevOps" src="assets/stack/azure-devops-light.svg" width="148" height="36" align="top"></picture
+><picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack/cicd-dark.svg"><img alt="CI/CD" src="assets/stack/cicd-light.svg" width="89" height="36" align="top"></picture
+><picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack/git-dark.svg"><img alt="Git" src="assets/stack/git-light.svg" width="69" height="36" align="top"></picture
+><picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack/prometheus-dark.svg"><img alt="Prometheus" src="assets/stack/prometheus-light.svg" width="131" height="36" align="top"></picture
+><picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack/app-insights-dark.svg"><img alt="Application Insights" src="assets/stack/app-insights-light.svg" width="185" height="36" align="top"></picture>
+</p>
+
+<p>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack/label-data-dark.svg"><img alt="Data &amp; messaging" src="assets/stack/label-data-light.svg" width="163" height="20"></picture><br>
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack/postgresql-dark.svg"><img alt="PostgreSQL" src="assets/stack/postgresql-light.svg" width="125" height="36" align="top"></picture
 ><picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack/sql-server-dark.svg"><img alt="SQL Server" src="assets/stack/sql-server-light.svg" width="119" height="36" align="top"></picture
 ><picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack/mongodb-dark.svg"><img alt="MongoDB" src="assets/stack/mongodb-light.svg" width="107" height="36" align="top"></picture
 ><picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack/redis-dark.svg"><img alt="Redis" src="assets/stack/redis-light.svg" width="86" height="36" align="top"></picture
 ><picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack/elasticsearch-dark.svg"><img alt="Elasticsearch" src="assets/stack/elasticsearch-light.svg" width="137" height="36" align="top"></picture
-><picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack/cosmos-db-dark.svg"><img alt="Azure Cosmos DB" src="assets/stack/cosmos-db-light.svg" width="126" height="36" align="top"></picture>
+><picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack/cosmos-db-dark.svg"><img alt="Azure Cosmos DB" src="assets/stack/cosmos-db-light.svg" width="126" height="36" align="top"></picture
+><picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack/kafka-dark.svg"><img alt="Apache Kafka" src="assets/stack/kafka-light.svg" width="84" height="36" align="top"></picture
+><picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack/rabbitmq-dark.svg"><img alt="RabbitMQ" src="assets/stack/rabbitmq-light.svg" width="114" height="36" align="top"></picture>
 </p>
 
 <p>
