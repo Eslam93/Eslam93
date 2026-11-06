@@ -168,4 +168,20 @@ I've shipped production AI to enterprise customers, including **Gulf-region gove
 ><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Eslam93/Eslam93/main/assets/stack/service-delivery-dark.svg?v=d1787387"><img alt="Service delivery" src="https://raw.githubusercontent.com/Eslam93/Eslam93/main/assets/stack/service-delivery-light.svg?v=920757f4" width="156" height="36" align="top"></picture>
 </p>
 
+<details>
+<summary><sub>Stack as plain text</sub></summary>
+<p>
+<b>AI engineering:</b> Production RAG, Agentic systems, Multi-agent systems, Tool calling, Reasoning chains, Generative AI, LLM applications, Vector and semantic search, Prompt engineering, LLM cost optimization, Arabic NLP<br>
+<b>AI operations &amp; safety:</b> LLMOps, Evaluation harnesses, Guardrails, Hallucination mitigation, Verifiable-evidence architectures, Human-in-the-loop review, Row-level security, Audit trails<br>
+<b>AI tooling:</b> LangGraph, LangChain, LlamaIndex, MCP (Model Context Protocol), IBM ContextForge, OpenAI API, Langfuse, Weaviate, Azure AI Search, Neo4j, Temporal, n8n<br>
+<b>Code:</b> Python, TypeScript, C#, .NET, ASP.NET Core, SignalR, FastAPI, Node.js, React, Svelte, GraphQL, REST APIs, OAuth 2.0, JWT, RBAC<br>
+<b>Architecture:</b> Microservices, Event-driven architecture, Serverless, Distributed systems<br>
+<b>Cloud:</b> AWS (EKS, Lambda, Bedrock, CDK, App Runner, EC2, ECR, S3, RDS, SQS, SNS, CloudWatch, IAM, Secrets Manager), Azure (AKS, Functions, App Services, API Management, Service Bus, Azure SQL, Key Vault, Entra ID)<br>
+<b>DevOps &amp; observability:</b> Docker, Kubernetes, GitHub Actions, Azure DevOps, CI/CD, Git, Prometheus, Application Insights<br>
+<b>Data &amp; messaging:</b> PostgreSQL, SQL Server, MongoDB, Redis, Elasticsearch, Azure Cosmos DB, Apache Kafka, RabbitMQ<br>
+<b>Builds with:</b> Claude Code, Codex, GitHub Copilot<br>
+<b>Leadership:</b> Cross-functional team management, Hiring, Mentorship, Code and architecture review, Engineering standards, Release engineering, Stakeholder communication, Service delivery
+</p>
+</details>
+
 <p align="center"><sub>Based in Cairo, working remotely &nbsp;|&nbsp; Arabic (native), English (full professional) &nbsp;|&nbsp; B.Sc. Computer Science, Helwan University</sub></p>
